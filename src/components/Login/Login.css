@@ -1,0 +1,22 @@
+.logInput {
+  border: 1px solid gray;
+  margin: 10px 0;
+  padding: 8px;
+  border-radius: 5px;
+}
+.login-btn {
+  padding: 8px 20px;
+  color: white;
+  background-color: red;
+  width: 25%;
+  border-radius: 10px;
+  font-weight: 100;
+  margin: 0 auto;
+  margin-top: 25px;
+
+  &:hover {
+    background-color: rgb(226, 139, 139);
+    color: red;
+    font-weight: 700;
+  }
+}

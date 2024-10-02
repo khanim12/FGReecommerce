@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "icon":"./images/i1.png",
+        "title":"NEW RELEASES"
+    },
+    {
+        "id":2,
+        "icon":"./images/i2.png",
+        "title":"SPECIALS"
+    },   {
+        "id":3,
+        "icon":"./images/i3.png",
+        "title":"QUICK ORDER"
+    },   {
+        "id":4,
+        "icon":"./images/i4.png",
+        "title":"FAVORITES"
+    },   {
+        "id":5,
+        "icon":"./images/i5.png",
+        "title":"CATALOGS"
+    },   {
+        "id":6,
+        "icon":"./images/i6.png",
+        "title":"EDIT PROFILE"
+    },   {
+        "id":7,
+        "icon":"./images/i7.png",
+        "title":"TRANSACTION HISTORY"
+    },   {
+        "id":8,
+        "icon":"./images/i8.png",
+        "title":"CHANGE PASSWORD"
+    },
+    {
+        "id":9,
+        "icon":"./images/i9.png",
+        "title":"SHIPPING ADDRESSES"
+    },  {
+        "id":10,
+        "icon":"./images/i10.png",
+        "title":"ORDER TRACKING"
+    },  {
+        "id":11,
+        "icon":"./images/i11.png",
+        "title":"TERMS & CONDITIONS"
+    },  {
+        "id":12,
+        "icon":"./images/i12.png",
+        "title":"LINKS"
+    }
+]
